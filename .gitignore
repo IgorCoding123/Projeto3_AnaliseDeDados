@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Dados (Arquivos pesados e locais)
+archive/
+archive.zip
+data/
+real_data.xlsx
+*.csv
+*.html
+
+# IDE
+.vscode/
+.idea/
